@@ -1,7 +1,7 @@
 dayofweek
 =========
 
-Finds the year following a given date DDMMYYYY for which the DDMM is the same week day as DDMMYYYY.
+Gets the day of the week from a date using Zeller's algorithm. Il also finds the five year (after a given date DDMMYYYY) for which the DDMM is the same week day as DDMMYYYY.
 
 # Sample Output
 
